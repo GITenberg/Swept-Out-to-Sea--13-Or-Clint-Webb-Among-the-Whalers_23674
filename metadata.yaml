@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25984'
     url: http://www.gutenberg.org/2009/agents/25984
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23674#Swept-Out-to-Sea--13-Or-Clint-Webb-Among-the-Whalers
 gutenberg_issued: '2007-12-02'
 gutenberg_type: Text
 identifiers:
